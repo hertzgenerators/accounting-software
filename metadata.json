@@ -1,0 +1,6 @@
+{
+  "name": "FinVoucher Pro - Accounting & Voucher System",
+  "description": "Comprehensive accounting & voucher management suite with Credit, Debit, Contra & Journal vouchers, granular RBAC access controls, separate window voucher views, PDF export, printable templates, and ledger analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
